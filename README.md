@@ -64,7 +64,7 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 ![输入账密](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/ipdeep_3_51bf1850b9.jpg)
 
-![点击保存](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/bit_5_3aeb0ed339.jpg)
+![点击保存](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/proxy_75bf51d8bc.png)
 
 6.输入完成，点击确定，IPDEEP静态住宅IP即绑定成功，点击打开按钮即可使用指纹浏览器。
 
