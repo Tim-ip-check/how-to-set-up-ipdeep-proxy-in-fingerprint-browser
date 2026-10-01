@@ -10,15 +10,15 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 1.进入[IPDEEP官网](https://www.ipdeep.cn/)，注册登录后台。
 
-![IPDEEP官网](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/ipdeep_1_ae252432f7.jpg)
+![IPDEEP官网](./assets/ipdeep_1_ae252432f7.jpg)
 
 2.根据需求选择合适的代理IP（以静态住宅代理为例）
 
-![选择静态代理ip](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/ipdeep_2_d41af01c3a.jpg)
+![选择静态代理ip](./assets/ipdeep_2_d41af01c3a.jpg)
 
 3.购买完成点击【已购买静态住宅代理】
 
-![已购买静态住宅代理](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/ipdeep_3_51bf1850b9.jpg)
+![已购买静态住宅代理](./assets/ipdeep_3_51bf1850b9.jpg)
 
 ## 二、本地切换外网访问
 
@@ -36,9 +36,9 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 5.打开全局代理和快速连接按钮。
 
-![节点选择](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/tizi_1_7b021a89ba.jpg)
+![节点选择](./assets/tizi_1_7b021a89ba.jpg)
 
-![代理配置](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/tizi_2_3c4b74a850.jpg)
+![代理配置](./assets/tizi_2_3c4b74a850.jpg)
 
 具体操作步骤，请参考：[https://github.com/Tim-ip-check/network-environment-guide](https://github.com/Tim-ip-check/network-environment-guide)
 
@@ -46,25 +46,25 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 1.进入[比特浏览器官网](https://www.bitbrowser.cn/)
 
-![比特浏览器官网](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/bit_1_76f7335612.jpg)
+![比特浏览器官网](./assets/bit_1_76f7335612.jpg)
 
 2.[下载](https://www.bitbrowser.cn/download)适配电脑的操作版本
 
-![下载比特浏览器版本](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/bit_2_099a85773d.jpg)
+![下载比特浏览器版本](./assets/bit_2_099a85773d.jpg)
 
 3.注册登录比特浏览器，点击浏览器窗口，创建窗口【比特浏览器支持免费试用10个窗口环境】
 
-![创建比特浏览器窗口](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/bit_3_3852a2e549.jpg)
+![创建比特浏览器窗口](./assets/bit_3_3852a2e549.jpg)
 
 4.滑到 代理设置 > 自定义代理 > 代理类型 > 输入你在IPDEEP平台购买的静态住宅IP
 
-![输入你在IPDEEP平台购买的静态住宅IP](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/bit_4_bdef06d937.jpg)
+![输入你在IPDEEP平台购买的静态住宅IP](./assets/bit_4_bdef06d937.jpg)
 
 5.代理主机对应服务器 > 代理端口对应端口号 > 代理账号对应 账号 > 代理密码对应 密码，复制即可。
 
-![输入账密](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/ipdeep_3_51bf1850b9.jpg)
+![输入账密](./assets/ipdeep_3_51bf1850b9.jpg)
 
-![点击保存](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/proxy_75bf51d8bc.png)
+![点击保存](./assets/proxy_75bf51d8bc.png)
 
 6.输入完成，点击确定，IPDEEP静态住宅IP即绑定成功，点击打开按钮即可使用指纹浏览器。
 
