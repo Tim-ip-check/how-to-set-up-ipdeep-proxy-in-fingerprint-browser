@@ -18,7 +18,7 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 3.购买完成点击【已购买静态住宅代理】
 
-![已购买静态住宅代理](./assets/ipdeep_3_51bf1850b9.jpg)
+![已购买静态住宅代理](./assets/ipdeep_3_51bf1850b9(2).jpg)
 
 ## 二、本地切换外网访问
 
@@ -62,10 +62,10 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 5.代理主机对应服务器 > 代理端口对应端口号 > 代理账号对应 账号 > 代理密码对应 密码，复制即可。
 
-![输入账密](./assets/ipdeep_3_51bf1850b9.jpg)
+![输入账密](./assets/ipdeep_3_51bf1850b9(2).jpg)
 
 ![点击保存](./assets/proxy_75bf51d8bc.png)
 
 6.输入完成，点击确定，IPDEEP静态住宅IP即绑定成功，点击打开按钮即可使用指纹浏览器。
 
-![点击启动浏览器](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/bit_6_d1ead7a778.jpg)
+![点击启动浏览器](./assets/bit_6_d1ead7a778.jpg)
