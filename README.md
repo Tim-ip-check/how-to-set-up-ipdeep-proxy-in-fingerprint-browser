@@ -36,23 +36,27 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 注：云梯官网提供的 Flclash 下载地址版本比较旧，可以去 Flclash 官网下载：https://flclash.cc/en/download
 
-### 复制 云梯 订阅 链接，导入flash ：
-
-打开 flash 工具，点击左侧【配置】> 点击右上角“+”，粘贴刚才复制的订阅链接 > 点击提交。
+### 复制 云梯 订阅 链接，导入flash 
 
 ![导入云梯订阅地址](/assets/图片5.png)
+
+### 打开 flash 工具
+
+点击左侧【配置】> 点击右上角“+”，粘贴刚才复制的订阅链接 > 点击提交。
+
+![复制订阅链接](/assets/图片6.png)
 
 ### 选择节点
 
 点击左侧导航中的 代理 选项，在右侧选择您想使用的节点。
 
-![选择节点](/assets/图片6.png)
+![选择节点](/assets/图片7.png)
 
 ### 开启代理
 
 回到 仪表盘，打开「系统代理」与「虚拟网卡」，并点击左侧开关，即可开启代理服务。
 
-![开启代理](/assets/图片7.png)
+![开启代理](/assets/图片8.png)
 
 具体操作步骤，请参考：[https://github.com/Tim-ip-check/network-environment-guide](https://github.com/Tim-ip-check/network-environment-guide)
 
@@ -60,23 +64,23 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 1.进入[比特浏览器官网](https://www.bitbrowser.cn/)
 
-![比特浏览器官网](/assets/图片8.png)
+![比特浏览器官网](/assets/图片9.png)
 
 2.[下载](https://www.bitbrowser.cn/download)适配电脑的操作版本
 
-![下载比特浏览器版本](/assets/图片9.png)
+![下载比特浏览器版本](/assets/图片10.png)
 
 3.注册登录比特浏览器，点击浏览器窗口，创建窗口【比特浏览器支持免费试用10个窗口环境】
 
-![创建比特浏览器窗口](/assets/图片10.png)
+![创建比特浏览器窗口](/assets/图片11.png)
 
 4.滑到 代理设置 > 自定义代理 > 代理类型 > 输入你在IPDEEP平台购买的静态住宅IP
 
-![输入你在IPDEEP平台购买的静态住宅IP](/assets/图片11.png)
+![输入账密](/assets/图片12.png)
+
+![输入你在IPDEEP平台购买的静态住宅IP](/assets/图片3.png)
 
 5.代理主机对应服务器 > 代理端口对应端口号 > 代理账号对应 账号 > 代理密码对应 密码，复制即可。
-
-![输入账密](/assets/图片12.png)
 
 ![点击保存](/assets/图片13.png)
 
