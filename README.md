@@ -60,7 +60,6 @@ IPDEEP代理IP提供动态、移动、静态、数据中心IP，支持多城市�
 
 ![开启代理](/assets/图片8.png)
 
-具体操作步骤，请参考：[https://github.com/Tim-ip-check/network-environment-guide](https://github.com/Tim-ip-check/network-environment-guide)
 
 ## 三、下载指纹浏览器（以比特指纹浏览器为例）
 
